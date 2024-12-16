@@ -1,6 +1,6 @@
 # Mazeball...!
 
-A WebGL Maze game built with Three.js and Box2dWeb. Play it here: http://vijay3639.github.io/Mazeball/
+A WebGL Maze game built with Three.js and Box2dWeb.
 
 ### Launching
 
